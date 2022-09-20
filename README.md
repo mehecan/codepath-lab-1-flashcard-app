@@ -10,7 +10,7 @@ to see the question again.
 
 ### App Walk-though
 
-<img src=https://recordit.co/NmuKeHmAS5 width=200><br>
+<img src="http://g.recordit.co/NmuKeHmAS5.gif" width=200><br>
 
 
 
